@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="SectionA-Question1/SectionA-Question1.csproj" />
   <Project Path="SectionA-Question2/SectionA-Question2.csproj" />
+  <Project Path="SectionA-Question3/SectionA-Question3.csproj" Id="d8f87c21-47fc-4f75-ba17-1a7e5f4a5e4b" />
 </Solution>
